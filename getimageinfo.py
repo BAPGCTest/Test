@@ -4,6 +4,7 @@
 from reseekfile import ReseekFile
 
 dit is een testje toch?
+Dit is ook een testje
 import ReseekFile
 
 def getImageInfo(datastream):
