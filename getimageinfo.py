@@ -4,6 +4,7 @@
 from reseekfile import ReseekFile
 
 dit is een testje toch?
+Branched
 import ReseekFile
 
 def getImageInfo(datastream):
