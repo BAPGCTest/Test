@@ -5,6 +5,7 @@ from reseekfile import ReseekFile
 
 dit is een testje toch?
 Branched
+Dit is ook een testje
 import ReseekFile
 
 def getImageInfo(datastream):
