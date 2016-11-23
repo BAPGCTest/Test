@@ -6,6 +6,7 @@ from reseekfile import ReseekFile
 dit is een testje toch?
 Branched
 Dit is ook een testje
+Bewerkt in branch!
 import ReseekFile
 
 def getImageInfo(datastream):
