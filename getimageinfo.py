@@ -3,7 +3,7 @@
 
 from reseekfile import ReseekFile
 
-
+dit is een testje toch?
 import ReseekFile
 
 def getImageInfo(datastream):
