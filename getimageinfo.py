@@ -7,6 +7,7 @@ dit is een testje toch?
 Branched
 Dit is ook een testje
 Bewerkt in branch!
+# Dis is toegevoegd op een andere pc
 import ReseekFile
 
 def getImageInfo(datastream):
